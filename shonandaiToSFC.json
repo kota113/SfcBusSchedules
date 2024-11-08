@@ -1,0 +1,7831 @@
+[
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "745",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "745",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "840",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "840",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "840",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "910",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "910",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "910",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1000",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1000",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1050",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1000",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1050",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1239",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1239",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1239",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1340",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1340",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1340",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1440",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1440",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1440",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1540",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1540",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1540",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1640",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1640",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1640",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1740",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1740",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1740",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1810",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1840",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1840",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1840",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1940",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "1940",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "2040",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "2040",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "2040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "2140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘19"
+        ],
+        "dest": "綾瀬車庫",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "慶応大学・宮原経由"
+    },
+    {
+        "time": "710",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "717",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "723",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "729",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "734",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "741",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "747",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "753",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "759",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "717",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "723",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "729",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "734",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "741",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "747",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "753",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "759",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "804",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "808",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "812",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "817",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "824",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "832",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "838",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "845",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "850",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "855",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "804",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "808",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "812",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "817",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "824",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "833",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "842",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "851",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "859",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "900",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "905",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "912",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "920",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "928",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "936",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "948",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "955",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "910",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "922",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "935",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1012",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1022",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1035",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1042",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1055",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1000",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1015",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1035",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1115",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1135",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1210",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1235",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1215",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1235",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1305",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1330",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1300",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1311",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1318",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1325",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1332",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1342",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1358",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1405",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1425",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1452",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1406",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1414",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1423",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1433",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1512",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1540",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1554",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1601",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1608",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1619",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1627",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1637",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1647",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1654",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1635",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1702",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1710",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1718",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1728",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1738",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1746",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1753",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1705",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1735",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1800",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1808",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1824",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1832",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1839",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1846",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1853",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1800",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1830",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1900",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1923",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1938",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1953",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1903",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1920",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘25"
+        ],
+        "dest": "急・慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "735",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "805",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "835",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "908",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "940",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "905",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "920",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "935",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "950",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1004",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1047",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1045",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1005",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1020",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1040",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1130",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1145",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1100",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1120",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1140",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1228",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1240",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1255",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1245",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1200",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1220",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1250",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1315",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1355",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1345",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1320",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1350",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1415",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1455",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1445",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1420",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1435",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1450",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1505",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1530",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1550",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1510",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1545",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1615",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1642",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1605",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1620",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1650",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1720",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1750",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1845",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1820",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1850",
+        "scheduleType": "holiday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1915",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "1945",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2010",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2030",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2050",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2110",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    },
+    {
+        "time": "2150",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "湘23",
+            "湘24"
+        ],
+        "dest": "慶応大学",
+        "start": "湘南台駅西口",
+        "additionalInfo": "",
+        "metadata": "遠藤経由"
+    }
+]
