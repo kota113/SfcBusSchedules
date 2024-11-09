@@ -1,0 +1,420 @@
+[
+    {
+        "time": "1515",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1529",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1543",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1558",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1603",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1614",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1631",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1645",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1655",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1705",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1715",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1725",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1735",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1745",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1755",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1805",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1815",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1825",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1845",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1904",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1924",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻35"
+        ],
+        "dest": "急・辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": "ツインライナー"
+    },
+    {
+        "time": "1950",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "2013",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "2113",
+        "scheduleType": "weekday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1237",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1257",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1317",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1337",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1357",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1417",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1437",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1517",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1537",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1617",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1737",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1817",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1837",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+    {
+        "time": "1936",
+        "scheduleType": "saturday",
+        "routeCode": [
+            "辻34"
+        ],
+        "dest": "辻堂北口",
+        "start": "慶応大学本館前",
+        "additionalInfo": "",
+        "metadata": ""
+    },
+]
