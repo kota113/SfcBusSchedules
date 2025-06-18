@@ -18,7 +18,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -29,7 +29,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -53,7 +53,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -64,7 +64,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -75,7 +75,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -86,7 +86,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -97,7 +97,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -108,7 +108,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -122,19 +122,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0719",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -158,7 +145,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -169,33 +156,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0726",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0726",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -206,7 +167,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -217,33 +178,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0732",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0732",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -254,7 +189,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -265,33 +200,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0738",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0738",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -302,7 +211,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -313,33 +222,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0743",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0743",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -350,7 +233,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -361,20 +244,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0746",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -385,7 +255,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -396,33 +266,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0750",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0750",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -433,7 +277,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -444,33 +288,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0756",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0756",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -520,7 +338,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -531,7 +349,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -550,51 +368,12 @@
         "metadata": "笹久保経由･湘南台駅西口行"
     },
     {
-        "time": "0802",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0808",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0808",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0809",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -605,7 +384,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -637,64 +416,12 @@
         "metadata": ""
     },
     {
-        "time": "0813",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0813",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0815",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0817",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0817",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -705,7 +432,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -724,38 +451,12 @@
         "metadata": ""
     },
     {
-        "time": "0821",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0821",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0822",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -787,38 +488,12 @@
         "metadata": ""
     },
     {
-        "time": "0826",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0826",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0827",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -829,7 +504,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -866,33 +541,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0833",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0833",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -916,7 +565,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -935,38 +584,12 @@
         "metadata": ""
     },
     {
-        "time": "0841",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0842",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0842",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -977,20 +600,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0847",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1027,20 +637,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0851",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1054,19 +651,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0854",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1090,7 +674,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1101,20 +685,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0859",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1133,64 +704,12 @@
         "metadata": "笹久保経由･湘南台駅西口行"
     },
     {
-        "time": "0900",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0904",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0905",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0908",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0909",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1214,7 +733,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1225,20 +744,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0914",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1257,51 +763,12 @@
         "metadata": ""
     },
     {
-        "time": "0917",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0919",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0921",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0925",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1320,51 +787,12 @@
         "metadata": ""
     },
     {
-        "time": "0929",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0931",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0937",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0937",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1378,32 +806,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0944",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0945",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1453,7 +855,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1464,7 +866,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1483,38 +885,12 @@
         "metadata": ""
     },
     {
-        "time": "0954",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "0957",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "0959",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1531,19 +907,6 @@
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": "笹久保経由･湘南台駅西口行"
-    },
-    {
-        "time": "1009",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
     },
     {
         "time": "1010",
@@ -1572,38 +935,12 @@
         "metadata": ""
     },
     {
-        "time": "1013",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1019",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1021",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1630,19 +967,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1024",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1674,19 +998,6 @@
         "metadata": ""
     },
     {
-        "time": "1031",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1032",
         "scheduleType": "sunday",
         "routeCode": [
@@ -1705,20 +1016,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1039",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1737,45 +1035,6 @@
         "metadata": ""
     },
     {
-        "time": "1044",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1047",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1051",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1053",
         "scheduleType": "weekday",
         "routeCode": [
@@ -1789,25 +1048,12 @@
         "metadata": ""
     },
     {
-        "time": "1054",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1055",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1826,19 +1072,6 @@
         "metadata": ""
     },
     {
-        "time": "1057",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1100",
         "scheduleType": "weekday",
         "routeCode": [
@@ -1850,58 +1083,6 @@
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": "笹久保経由･湘南台駅西口行"
-    },
-    {
-        "time": "1101",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1105",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1109",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1109",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
     },
     {
         "time": "1113",
@@ -1948,7 +1129,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -1967,19 +1148,6 @@
         "metadata": ""
     },
     {
-        "time": "1119",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1120",
         "scheduleType": "weekday",
         "routeCode": [
@@ -2001,32 +1169,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1124",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1129",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2045,25 +1187,12 @@
         "metadata": ""
     },
     {
-        "time": "1139",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1140",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2074,7 +1203,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2093,51 +1222,12 @@
         "metadata": ""
     },
     {
-        "time": "1144",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1149",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1150",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1154",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2148,20 +1238,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1159",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2172,7 +1249,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2204,38 +1281,12 @@
         "metadata": "笹久保経由･湘南台駅西口行"
     },
     {
-        "time": "1209",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1209",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1210",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2293,38 +1344,12 @@
         "metadata": ""
     },
     {
-        "time": "1219",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1220",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1224",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2335,7 +1360,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2354,19 +1379,6 @@
         "metadata": ""
     },
     {
-        "time": "1229",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1230",
         "scheduleType": "weekday",
         "routeCode": [
@@ -2380,51 +1392,12 @@
         "metadata": ""
     },
     {
-        "time": "1237",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1239",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1240",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1244",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2435,7 +1408,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2459,46 +1432,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1249",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1254",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1254",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2509,7 +1443,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2520,20 +1454,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1259",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2544,20 +1465,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1304",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2568,20 +1476,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1309",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2592,7 +1487,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2671,19 +1566,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1314",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2715,19 +1597,6 @@
         "metadata": ""
     },
     {
-        "time": "1320",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1322",
         "scheduleType": "saturday",
         "routeCode": [
@@ -2741,51 +1610,12 @@
         "metadata": ""
     },
     {
-        "time": "1327",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1328",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1328",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1329",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2817,38 +1647,12 @@
         "metadata": ""
     },
     {
-        "time": "1334",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1336",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1339",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2867,25 +1671,12 @@
         "metadata": ""
     },
     {
-        "time": "1341",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1344",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2896,7 +1687,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2907,33 +1698,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1354",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1354",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2952,25 +1717,12 @@
         "metadata": ""
     },
     {
-        "time": "1359",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1400",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -2981,33 +1733,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1404",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1407",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3031,7 +1757,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3071,32 +1797,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1414",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1415",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3141,38 +1841,12 @@
         "metadata": ""
     },
     {
-        "time": "1423",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1428",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1428",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3183,33 +1857,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1432",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1434",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3241,38 +1889,12 @@
         "metadata": ""
     },
     {
-        "time": "1442",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1444",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1448",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3283,46 +1905,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1454",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1454",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1459",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3336,19 +1919,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1501",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3372,7 +1942,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3435,20 +2005,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1519",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3467,38 +2024,12 @@
         "metadata": ""
     },
     {
-        "time": "1521",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1523",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1525",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3522,7 +2053,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3533,20 +2064,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1539",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3557,7 +2075,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3568,7 +2086,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3587,19 +2105,6 @@
         "metadata": ""
     },
     {
-        "time": "1549",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1551",
         "scheduleType": "weekday",
         "routeCode": [
@@ -3613,25 +2118,12 @@
         "metadata": ""
     },
     {
-        "time": "1554",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1556",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3650,38 +2142,12 @@
         "metadata": ""
     },
     {
-        "time": "1559",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1603",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1605",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3695,19 +2161,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1610",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3718,7 +2171,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3763,38 +2216,12 @@
         "metadata": ""
     },
     {
-        "time": "1614",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1615",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1617",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3831,33 +2258,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1628",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1629",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3868,7 +2269,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3887,25 +2288,12 @@
         "metadata": ""
     },
     {
-        "time": "1636",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1640",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3916,33 +2304,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1644",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1646",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3953,7 +2315,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3977,7 +2339,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -3988,20 +2350,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1659",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4020,25 +2369,12 @@
         "metadata": ""
     },
     {
-        "time": "1703",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1706",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4049,20 +2385,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1711",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4094,25 +2417,12 @@
         "metadata": ""
     },
     {
-        "time": "1714",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1716",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4126,19 +2436,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1719",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4162,46 +2459,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1727",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1728",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1729",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4212,7 +2470,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4223,20 +2481,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1737",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4247,7 +2492,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4266,38 +2511,12 @@
         "metadata": ""
     },
     {
-        "time": "1744",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1746",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1747",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4308,7 +2527,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4332,20 +2551,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1755",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4356,7 +2562,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4375,38 +2581,12 @@
         "metadata": ""
     },
     {
-        "time": "1804",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1806",
         "scheduleType": "saturday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1809",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4417,7 +2597,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4454,7 +2634,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4491,20 +2671,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1824",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4523,38 +2690,12 @@
         "metadata": ""
     },
     {
-        "time": "1828",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1831",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1833",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4565,20 +2706,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1839",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4589,33 +2717,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1841",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1848",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4626,20 +2728,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1855",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4650,7 +2739,7 @@
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4669,64 +2758,12 @@
         "metadata": ""
     },
     {
-        "time": "1902",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1904",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1906",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1909",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1912",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4771,64 +2808,12 @@
         "metadata": ""
     },
     {
-        "time": "1922",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1928",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1929",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "1931",
         "scheduleType": "weekday",
         "routeCode": [
             "湘25"
         ],
-        "dest": "急行・湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "1937",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
+        "dest": "急・湘南台駅西口",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4868,19 +2853,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "2002",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4938,19 +2910,6 @@
         "metadata": ""
     },
     {
-        "time": "2019",
-        "scheduleType": "saturday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "2021",
         "scheduleType": "weekday",
         "routeCode": [
@@ -4959,19 +2918,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "2023",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -4990,19 +2936,6 @@
         "metadata": ""
     },
     {
-        "time": "2039",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
         "time": "2051",
         "scheduleType": "weekday",
         "routeCode": [
@@ -5011,19 +2944,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "2059",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
@@ -5050,19 +2970,6 @@
             "湘24"
         ],
         "dest": "湘南台駅西口",
-        "start": "Sfc",
-        "additionalInfo": "",
-        "metadata": ""
-    },
-    {
-        "time": "2123",
-        "scheduleType": "weekday",
-        "routeCode": [
-            "湘23",
-            "湘24",
-            "湘25"
-        ],
-        "dest": "慶応中高等部前",
         "start": "Sfc",
         "additionalInfo": "",
         "metadata": ""
